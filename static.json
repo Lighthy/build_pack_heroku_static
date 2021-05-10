@@ -1,0 +1,10 @@
+{
+  "root": "assets/",
+  "canonical_host": "blooming-brushlands-60091.herokuapp.com",
+  "clean_urls": true,
+  "error_page": "errors/index.html",
+  "routes": {
+    "/iabd": "index.html",
+    "/photos": "https://i1.sndcdn.com/artworks-ufXX9P49z3xnCzXY-Q5OaYQ-t500x500.jpg"
+  }
+}
